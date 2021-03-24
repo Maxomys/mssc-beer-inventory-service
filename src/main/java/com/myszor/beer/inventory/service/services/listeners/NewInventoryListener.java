@@ -1,4 +1,4 @@
-package com.myszor.beer.inventory.service.services;
+package com.myszor.beer.inventory.service.services.listeners;
 
 import com.myszor.beer.inventory.service.config.JmsConfig;
 import com.myszor.beer.inventory.service.domain.BeerInventory;
